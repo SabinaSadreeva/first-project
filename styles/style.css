@@ -2,10 +2,10 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  padding-left: 24px;
   padding-top: 92px;
   padding-right: 24px;
   padding-bottom: 92px;
+  padding-left: 24px;
 }
 .header_menu {
   display: flex;
@@ -20,10 +20,10 @@
 }
 
 .link_list {
-  font-size: 18px;
   font-weight: 400;
-  text-underline-offset: 4px;
+  font-size: 18px;
   text-decoration: none;
+  text-underline-offset: 4px;
 }
 
 .main {
@@ -33,3 +33,46 @@
 .link_main {
   list-style-type: none;
 }
+
+.header_logo {}
+.address {}
+
+.cover {}
+.cover_title {}
+.cover_description {}
+.cover_text {}
+.button {}
+
+.lots {}
+.lots_title {}
+.lots_list {}
+.lots_card {}
+.card_link {}
+.card {}
+.card_film {}
+.card_book {}
+.card_picture {}
+.card_title {}
+.lots_more-link {}
+
+.about {}
+.left_column {}
+.about_logo {}
+.about_logo-image {}
+.right_column {}
+.about_title {}
+.about_text {}
+.about_in_text {}
+
+.footer {}
+.footer_address {}
+.address_list {}
+.footer_menu {}
+.footer_menu-list {}
+.footer_menu-item {}
+.footer_menu-link {}
+.footer_menu-link_active {}
+.footer_social-list {}
+.footer_social-item {}
+.footer_social-link {}
+.footer_social-icon {}
